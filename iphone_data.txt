@@ -1,0 +1,24 @@
+iPhone 12 : 7500000, 4, 128, sedang, bagus
+iPhone 12 : 15000000, 4, 256, sedang, bagus
+iPhone 12 Mini : 3350000, 4, 128, sedang, bagus
+iPhone 12 Pro : 14000000, 6, 256, sedang, bagus
+iPhone 12 Pro Max : 15500000, 6, 256, besar, bagus
+iPhone SE (generasi ke-2) : 7000000, 3, 128, kecil, cukup
+iPhone 13 : 12000000, 4, 128, sedang, bagus
+iPhone 13 Mini : 11500000, 4, 128, kecil, bagus
+iPhone 13 Pro : 17000000, 6, 256, sedang, bagus
+iPhone 13 Pro Max : 18500000, 6, 256, besar, bagus
+iPhone 14 : 14000000, 6, 128, sedang, bagus
+iPhone 14 Plus : 15000000, 6, 128, besar, bagus
+iPhone 14 Pro : 19000000, 6, 256, sedang, sangat bagus
+iPhone 14 Pro Max : 21000000, 6, 256, besar, sangat bagus
+iPhone SE (generasi ke-3) : 8000000, 4, 128, kecil, cukup
+iPhone 15 : 16499000, 6, 128, sedang, sangat bagus
+iPhone 15 Plus : 17499000, 6, 128, besar, sangat bagus
+iPhone 15 Pro : 20999000, 8, 256, sedang, sangat bagus
+iPhone 15 Pro Max : 22999000, 8, 256, besar, sangat bagus
+iPhone 16 : 18000000, 8, 128, sedang, sangat bagus
+iPhone 16 Plus : 19000000, 8, 128, besar, sangat bagus
+iPhone 16 Pro : 22000000, 8, 256, sedang, sangat bagus
+iPhone 16 Pro Max : 24000000, 8, 256, besar, sangat bagus
+iPhone 16 E : 10000000, 8, 128, sedang, bagus
